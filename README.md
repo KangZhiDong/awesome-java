@@ -254,7 +254,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Speedment](https://github.com/speedment/speedment) - Database access library that utilizes the Java 8 Stream API for querying.
 * [sql2o](http://sql2o.org/) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 * [Vibur DBCP](http://www.vibur.org/) - JDBC connection pool library which offers advanced performance monitoring capabilities.
-* [TiDB](http://www.pingcap.com/)-TiDB TiDB is a distributed SQL database. Inspired by the design of Google F1, TiDB supports the best features of both traditional RDBMS and NoSQL.
+* [TiDB](http://www.pingcap.com/)-TiDB is a distributed SQL database. Inspired by the design of Google F1, TiDB supports the best features of both traditional RDBMS and NoSQL.
 
 ## Data structures
 
